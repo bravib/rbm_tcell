@@ -2,7 +2,7 @@
 
 Python3 codes to implement Restricted Boltzmann Machine (RBM)-based analyses described in Bravi et al. 2021 to identify condition and epitope-specific T-cell receptors and characterize their sequence motifs from TRB repertoire sequencing data.
 
-The publication of research using this software, modified or not, must include appropriate citations to: Bravi et al., PLoS Comput. Biol. (2021)  
+The publication of research using this software, modified or not, must include appropriate citations to: Bravi et al., PLoS Comput. Biol. PLoS Comput. Biol. 17(9):e1009297 (2021)  
 
 For the implementation of the software SONIA - to infer selection pressures on features of amino acid CDR3 sequences - please visit https://github.com/statbiophys/SONIA
 
